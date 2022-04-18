@@ -1,5 +1,4 @@
-# My Project
-## Rainfall-Prediction 
+# Rainfall-Prediction 
 
 A project on predicting whether it will rain tomorrow or not by using the Rainfall in Australia dataset. Using catboost, xgboost, random forest, support vector classifier, etc I tried to obtain the best model giving the best accuracy. Out of these models, catboost performed very well giving an AUC score around a ROC score of 89 far better than others.
 
